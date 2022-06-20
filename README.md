@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Azizbek Hojimurotov
 - 👀 I’m interested in programming and solving algorithms
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m know enough about C programming language
+- I'm currently learning Python and Golang 
 - 📫 How to reach me @azizbek_dev_2005
 
 <!---
